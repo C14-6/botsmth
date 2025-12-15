@@ -1,2 +1,4 @@
-aiogram==2.23.1
+discord.py-self[voice]
+aiohttp
+python-dotenv
 flask
