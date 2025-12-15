@@ -31,8 +31,8 @@ async def start_web_server():
 async def on_ready():
     print(f'[SUCCESS] Logged in as: {bot.user}')
     
-    YOUR_GUILD_ID = 123456789012345678   # REPLACE THIS
-    YOUR_VOICE_CHANNEL_ID = 123456789012345679  # REPLACE THIS
+    YOUR_GUILD_ID = 1449960140466819174   # REPLACE THIS
+    YOUR_VOICE_CHANNEL_ID = 1449960141624578206  # REPLACE THIS
 
     target_guild = bot.get_guild(YOUR_GUILD_ID)
     if not target_guild:
